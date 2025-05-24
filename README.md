@@ -44,3 +44,13 @@ Makine öğrenmesi ile uçak kalkış gecikmelerini sayısal olarak tahmin etme.
   * MSE: 149.18471977081978,
   * RMSE: 12.214119688738103,
   * R² Score: 0.947966803206839 gelmiştir.
+
+## Projenin Faydaları
+* Problemimiz uçuşların ne kadar gecikeceğinin önceden bilinememesiydi bu projeyle birlikte bu soruna çözüm olup gerekli bilgiler doğrultusunda uçuşun ne kadar gecikeceği önceden tahmin edilerek havayolu şirketlerinin, yolcuların ve havaalanı operasyonlarının planlamasını iyileştirecektir.
+* Özetle, bu proje uçak kalkış gecikmelerini tahmin etmek için makine öğrenmesi kullanarak zamanında hareket planlamasına katkı sağlıyor.
+
+## Geliştirme İmkanları
+* Eksik verileri doldurarak veri kaybını önleyerek,
+* Hata payını minimuma indiren daha doğru öğrenen modeller kullanılarak,
+* Aykırı değerlerin daha derin bir analizini gerçekleştirerek,
+* Güçlü bir arayüz ile kullanıcıların etkileşimini arttırarak bu proje geliştirilebilir.
