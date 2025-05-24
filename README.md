@@ -2,7 +2,7 @@
 Makine öğrenmesi ile uçak kalkış gecikmelerini sayısal olarak tahmin etme.
 
 ## Proje Hakkında
-* **Kaggle Adresi**: [Buraya Tıkla](https://www.kaggle.com/code/tugbakaratas/flight-delay-regression)
+* **Kaggle Adresi**: [Projeyi Kaggle'da Gör](https://www.kaggle.com/code/tugbakaratas/flight-delay-regression)
 * Projenin amacı makine öğrenmesi yöntemini kullanarak uçağın kalkışının ne kadar gecikeceğini tahmin etmektir. Bunun için Kaggle platformunda bulunan veri seti kullanılmış olup gecikmeleri sayısal olarak tahmin etmesi için regresyon modeli kullanılmıştır.
 
 ## Kullanılan Veri Seti
